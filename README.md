@@ -80,5 +80,3 @@ These results indicate strong predictive performance and good generalization.
 
 ## 👩‍💻 Author
 **Pranshi**
-
-   git clone https://github.com/your-username/car-price-prediction.git
